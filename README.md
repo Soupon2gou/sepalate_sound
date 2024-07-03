@@ -1,0 +1,2 @@
+# sepalate_sound
+RVCなどの音声AI学習の素材集めに役立ててください
